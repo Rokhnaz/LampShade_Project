@@ -1,0 +1,16 @@
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.deps.json
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.sourcelink.json
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\refint\ShopManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ShopManagement.Application.Contracts.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Application.Contracts\obj\Debug\net8.0\ref\ShopManagement.Application.Contracts.dll
