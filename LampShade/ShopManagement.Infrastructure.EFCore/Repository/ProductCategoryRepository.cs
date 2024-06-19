@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using _0_Framework.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 
@@ -17,6 +18,15 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
         public ProductCategoryRepository(ShopContext context) : base(context)
         {
             _context = context;
+        }
+
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _context.ProductCategories.Select(x => new ProductCategoryViewModel()
+            {
+                Id = x.Id,
+                Name = x.Name,
+            }).ToList();
         }
 
         public EditProductCategory GetDetails(long id)
