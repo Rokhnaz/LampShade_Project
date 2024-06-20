@@ -24,3 +24,5 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ShopManagement.Configuration.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ShopManagement.Configuration.genruntimeconfig.cache
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ref\ShopManagement.Configuration.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.pdb

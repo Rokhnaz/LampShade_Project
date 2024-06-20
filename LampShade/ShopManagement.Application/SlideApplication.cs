@@ -22,7 +22,7 @@ namespace ShopManagement.Application
         {
             var operation=new OperationResult();
             var slide = new Slide(command.Picture, command.PictureAlt, command.PictureTitle, command.Heading,
-                command.Title, command.Text, command.BtnText);
+                command.Title, command.Text, command.Link,command.BtnText);
                 _SlideRepository.Create(slide);
                 _SlideRepository.SaveChanges();
                 return operation.Succedded();
@@ -36,7 +36,7 @@ namespace ShopManagement.Application
             if (slide == null)
                 return operation.Failed(ApplicationMessages.RecordNotFound);
 
-            slide.Edit(command.Picture,command.PictureAlt,command.PictureTitle,command.Heading,command.Title,command.Text,command.BtnText);
+            slide.Edit(command.Picture,command.PictureAlt,command.PictureTitle,command.Heading,command.Title,command.Text,command.Link,command.BtnText);
             _SlideRepository.SaveChanges();
             return operation.Succedded();
         }

@@ -16,6 +16,8 @@ using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Domain.SlideAgg;
 using ShopManagement.Infrastructure.EFCore;
 using ShopManagement.Infrastructure.EFCore.Repository;
+using _01_LampshadeQuery.Contracts.Slide;
+using _01_LampshadeQuery.Query;
 
 namespace ShopManagement.Configuration
 {
@@ -36,6 +38,8 @@ namespace ShopManagement.Configuration
 
             servicec.AddTransient<ISlideApplication, SlideApplication>();
             servicec.AddTransient<ISlideRepository, SlideRepository>();
+
+            servicec.AddTransient<ISlideQuery, SlideQuery>();
 
             servicec.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));
         }

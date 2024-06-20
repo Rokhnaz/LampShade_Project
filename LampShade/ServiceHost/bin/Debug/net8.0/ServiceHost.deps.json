@@ -1973,6 +1973,14 @@
           }
         }
       },
+      "01_LampshadeQuery/1.0.0": {
+        "dependencies": {
+          "ShopManagement.Infrastructure.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "01_LampshadeQuery.dll": {}
+        }
+      },
       "0_Framework/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.3"
@@ -2000,6 +2008,7 @@
       },
       "ShopManagement.Configuration/1.0.0": {
         "dependencies": {
+          "01_LampshadeQuery": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
@@ -3206,6 +3215,11 @@
       "sha512": "sha512-bR4qdCmssMMbo9Fatci49An5B1UaVJZHKNq70PRgzoLYIlitb8Tj7ns/Xt5Pz1CkERiTjcVBDU2y1AVrPBYkaw==",
       "path": "system.windows.extensions/7.0.0",
       "hashPath": "system.windows.extensions.7.0.0.nupkg.sha512"
+    },
+    "01_LampshadeQuery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "0_Framework/1.0.0": {
       "type": "project",

@@ -32,6 +32,7 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 BtnText = x.BtnText,
                 Title = x.Title,
                 Heading = x.Heading,
+                Link = x.Link,
                 
 
             }).FirstOrDefault(x => x.Id==id);
