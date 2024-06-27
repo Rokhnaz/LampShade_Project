@@ -31,6 +31,7 @@ namespace _01_LampshadeQuery.Query
                 Link = x.Link,
 
             }).ToList();
+
         }
     }
 }

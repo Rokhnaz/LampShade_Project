@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _01_LampshadeQuery.Contracts.ProductCategory;
 using Microsoft.EntityFrameworkCore;
 using ShopManagement.Application.Contracts.Product;
 using ShopManagement.Application.Contracts.ProductPicture;
@@ -23,25 +24,26 @@ namespace ShopManagement.Configuration
 {
     public class ShopManagementBootstrapper
     {
-        public static void Configure(IServiceCollection servicec,string connectionString)
+        public static void Configure(IServiceCollection services,string connectionString)
         {
-            servicec.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
-            servicec.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
-
-            servicec.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
-
-            servicec.AddTransient<IProductApplication, ProductApplication>();
-            servicec.AddTransient<IProductRepository, ProductRepository>();
-
-            servicec.AddTransient<IProductPictureApplication, ProductPictureApplication>();
-            servicec.AddTransient<IProductPictureRepository, ProductPictureRepository>();
-
-            servicec.AddTransient<ISlideApplication, SlideApplication>();
-            servicec.AddTransient<ISlideRepository, SlideRepository>();
-
-            servicec.AddTransient<ISlideQuery, SlideQuery>();
-
-            servicec.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));
+            services.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
+            services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+                   
+            //services.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
+                   
+            services.AddTransient<IProductApplication, ProductApplication>();
+            services.AddTransient<IProductRepository, ProductRepository>();
+                   
+            services.AddTransient<IProductPictureApplication, ProductPictureApplication>();
+            services.AddTransient<IProductPictureRepository, ProductPictureRepository>();
+                   
+            services.AddTransient<ISlideApplication, SlideApplication>();
+            services.AddTransient<ISlideRepository, SlideRepository>();
+                   
+            services.AddTransient<ISlideQuery, SlideQuery>();
+            services.AddTransient<IProductCategoryQuery, ProductCategoryQuery>();
+                   
+            services.AddDbContext<ShopContext>(x => x.UseSqlServer(connectionString));
         }
     }
 }

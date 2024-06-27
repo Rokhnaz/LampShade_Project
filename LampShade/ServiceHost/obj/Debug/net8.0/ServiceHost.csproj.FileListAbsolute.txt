@@ -277,3 +277,13 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\obj\Debug\net8.0\ref
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\01_LampshadeQuery.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\01_LampshadeQuery.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Configuration.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Domain.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Configuration.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Domain.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ServiceHost\bin\Debug\net8.0\DiscountManagement.Infrastructure.EFCore.pdb

@@ -1,11 +1,20 @@
+using DiscountManagement.Configuration;
+using DiscountManagement.Domain.CustomerDiscountAgg;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Options;
 using ShopManagement.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddHttpContextAccessor();
 var connectionString = builder.Configuration.GetConnectionString("LampshadeDb");
-ShopManagementBootstrapper.Configure(builder.Services,connectionString);
+ShopManagementBootstrapper.Configure(builder.Services, connectionString);
+DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
+
+
+
 
 var app = builder.Build();
 

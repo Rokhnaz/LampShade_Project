@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "01MteOTptyZaTHB3mHAXldw4bmlUfY0/GUOMBWz48Fo=",
+  "Hash": "zrI6VUGOa58Dj5EckA01Vd4MDBxdx0BVGFxH7skwqwI=",
   "Source": "ServiceHost",
   "BasePath": "_content/ServiceHost",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.3\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\Rokhnaz\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.6\\staticwebassets\\QuickGrid.razor.js"
     },
     {
       "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\obj\\Debug\\net8.0\\scopedcss\\bundle\\ServiceHost.styles.css",
@@ -851,6 +851,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/css/persian-datepicker.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\css\\persian-datepicker.min.css"
     },
     {
       "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\css\\style.css",
@@ -3948,6 +3967,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\npm.js"
+    },
+    {
+      "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/persian-date.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\persian-date.min.js"
+    },
+    {
+      "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js",
+      "SourceId": "ServiceHost",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\",
+      "BasePath": "_content/ServiceHost",
+      "RelativePath": "AdminTheme/assets/js/persian-datepicker.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\AdminTheme\\assets\\js\\persian-datepicker.min.js"
     },
     {
       "Identity": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\AdminTheme\\assets\\js\\site.js",
