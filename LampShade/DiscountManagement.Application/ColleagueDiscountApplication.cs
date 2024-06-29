@@ -51,7 +51,7 @@ namespace DiscountManagement.Application
             return operation.Succedded();
         }
 
-        public OperationResult Rmove(long id)
+        public OperationResult Remove(long id)
         {
             var operation = new OperationResult();
             var colleagueDiscount = _colleagueDiscountRepository.Get(id);
