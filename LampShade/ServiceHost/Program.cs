@@ -1,5 +1,6 @@
 using DiscountManagement.Configuration;
 using DiscountManagement.Domain.CustomerDiscountAgg;
+using InventoryManagement.Infrastructure.Configuration;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Options;
 using ShopManagement.Configuration;
@@ -12,6 +13,7 @@ builder.Services.AddHttpContextAccessor();
 var connectionString = builder.Configuration.GetConnectionString("LampshadeDb");
 ShopManagementBootstrapper.Configure(builder.Services, connectionString);
 DiscountManagementBootstrapper.Configure(builder.Services, connectionString);
+InventoryManagementBootstrapper.Configure(builder.Services,connectionString);
 
 
 

@@ -2,11 +2,13 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Configuration.runtimeconfig.json
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Configuration.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Configuration.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\0_Framework.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Application.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Domain.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Application.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\ShopManagement.Infrastructure.EFCore.pdb
@@ -24,5 +26,3 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ShopManagement.Configuration.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ShopManagement.Configuration.genruntimeconfig.cache
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\obj\Debug\net8.0\ref\ShopManagement.Configuration.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\ShopManagement.Configuration\bin\Debug\net8.0\01_LampshadeQuery.pdb

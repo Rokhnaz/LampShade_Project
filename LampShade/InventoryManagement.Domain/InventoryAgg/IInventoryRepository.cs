@@ -8,7 +8,7 @@ using InventoryManagement.Application.Contract.Inventory;
 
 namespace InventoryManagement.Domain.InventoryAgg
 {
-    internal interface IInventoryRepository:IRepository<long,Inventory>
+    public interface IInventoryRepository:IRepository<long,Inventory>
     {
         EditInventory GetDetails(long id);
         Inventory GetBy(long ProductId);

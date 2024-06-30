@@ -1,4 +1,5 @@
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\DiscountManagement.Configuration.deps.json
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\DiscountManagement.Configuration.runtimeconfig.json
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\DiscountManagement.Configuration.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\DiscountManagement.Configuration.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\0_Framework.dll
@@ -27,6 +28,5 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\DiscountManagement.Configuration.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\refint\DiscountManagement.Configuration.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\DiscountManagement.Configuration.pdb
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\ref\DiscountManagement.Configuration.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\bin\Debug\net8.0\DiscountManagement.Configuration.runtimeconfig.json
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\DiscountManagement.Configuration.genruntimeconfig.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Configuration\obj\Debug\net8.0\ref\DiscountManagement.Configuration.dll

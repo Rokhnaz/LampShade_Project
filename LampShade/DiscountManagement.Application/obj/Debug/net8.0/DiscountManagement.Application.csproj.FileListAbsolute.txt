@@ -4,9 +4,11 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\b
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\0_Framework.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Application.Contract.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Domain.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Application.Contract.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\DiscountManagement.Domain.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\0_Framework.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.csproj.AssemblyReference.cache
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.AssemblyInfoInputs.cache
@@ -18,5 +20,3 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\o
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\refint\DiscountManagement.Application.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\DiscountManagement.Application.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\obj\Debug\net8.0\ref\DiscountManagement.Application.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\DiscountManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb

@@ -2,7 +2,9 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\D
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Domain.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\0_Framework.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Application.Contract.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\0_Framework.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.csproj.AssemblyReference.cache
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.AssemblyInfoInputs.cache
