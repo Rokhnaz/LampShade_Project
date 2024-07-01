@@ -16,7 +16,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
     public class ProductRepository:RepositoryBase<long,Product>,IProductRepository
     {
         private readonly ShopContext _Context;
-
         public ProductRepository(ShopContext context) : base(context)
         {
             _Context = context;
@@ -38,7 +37,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 ShortDescription = x.ShortDescription,
-                UnitPrice = x.UnitPrice,
             }).FirstOrDefault(x => x.Id == id);
         }
 
@@ -60,10 +58,8 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 Code = x.Code,
                 Category = x.Category.Name,
                 Picture = x.Picture,
-                UnitPrice = x.UnitPrice,
                 CategoryId= x.CategoryId,
                 CreationDate = x.CreationDate.ToFarsi(),
-                IsInStock = x.IsInStock
 
             });
             if (!string.IsNullOrWhiteSpace(searchModel.Name))

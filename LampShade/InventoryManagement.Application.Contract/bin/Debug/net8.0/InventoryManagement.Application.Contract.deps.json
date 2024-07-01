@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "InventoryManagement.Application.Contract/1.0.0": {
         "dependencies": {
-          "0_Framework": "1.0.0"
+          "0_Framework": "1.0.0",
+          "ShopManagement.Application.Contracts": "1.0.0"
         },
         "runtime": {
           "InventoryManagement.Application.Contract.dll": {}
@@ -133,6 +134,14 @@
         "runtime": {
           "0_Framework.dll": {}
         }
+      },
+      "ShopManagement.Application.Contracts/1.0.0": {
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "runtime": {
+          "ShopManagement.Application.Contracts.dll": {}
+        }
       }
     }
   },
@@ -220,6 +229,11 @@
       "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
     },
     "0_Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopManagement.Application.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

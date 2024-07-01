@@ -16,3 +16,5 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\D
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\refint\InventoryManagement.Domain.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\InventoryManagement.Domain.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\obj\Debug\net8.0\ref\InventoryManagement.Domain.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Domain\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
