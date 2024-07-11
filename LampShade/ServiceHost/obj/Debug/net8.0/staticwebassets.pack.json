@@ -1085,6 +1085,34 @@
       "PackagePath": "staticwebassets\\AdminTheme\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\00001 (1).jpg",
+      "PackagePath": "staticwebassets\\ProductPictures\\00001 (1).jpg"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\IMG_6677.JPG",
+      "PackagePath": "staticwebassets\\ProductPictures\\IMG_6677.JPG"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\ProfilePhotos\\R.jfif",
+      "PackagePath": "staticwebassets\\ProductPictures\\ProfilePhotos\\R.jfif"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\آباژور\\12.png",
+      "PackagePath": "staticwebassets\\ProductPictures\\آباژور\\12.png"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\آباژور\\R (2).jfif",
+      "PackagePath": "staticwebassets\\ProductPictures\\آباژور\\R (2).jfif"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\آباژور\\R (3).jfif",
+      "PackagePath": "staticwebassets\\ProductPictures\\آباژور\\R (3).jfif"
+    },
+    {
+      "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\ProductPictures\\آباژور\\R.jfif",
+      "PackagePath": "staticwebassets\\ProductPictures\\آباژور\\R.jfif"
+    },
+    {
       "Id": "D:\\Atria\\MyPrj\\MVC_Final_Project\\Code\\LampShade\\ServiceHost\\wwwroot\\Theme\\assets\\css\\Custom.css",
       "PackagePath": "staticwebassets\\Theme\\assets\\css\\Custom.css"
     },

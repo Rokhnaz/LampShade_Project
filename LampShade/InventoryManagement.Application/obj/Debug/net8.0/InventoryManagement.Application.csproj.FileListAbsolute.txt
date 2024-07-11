@@ -4,9 +4,11 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\0_Framework.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\InventoryManagement.Application.Contract.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\InventoryManagement.Domain.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\InventoryManagement.Application.Contract.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\InventoryManagement.Domain.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\0_Framework.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\InventoryManagement.Application.csproj.AssemblyReference.cache
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\InventoryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\InventoryManagement.Application.AssemblyInfoInputs.cache
@@ -18,5 +20,3 @@ D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\refint\InventoryManagement.Application.dll
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\InventoryManagement.Application.pdb
 D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\obj\Debug\net8.0\ref\InventoryManagement.Application.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.dll
-D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\InventoryManagement.Application\bin\Debug\net8.0\ShopManagement.Application.Contracts.pdb

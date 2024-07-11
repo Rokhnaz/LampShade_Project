@@ -50,7 +50,6 @@ $(document).ready(function () {
             const url = form.attr("action");
             const data = form.serializeArray;
             var action = form.attr("data-action");
-
             if (method === "get") {
                 const data = form.serializeArray();
                 $.get(url,

@@ -1,0 +1,16 @@
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\bin\Debug\net8.0\AccountManagement.Application.Contracts.deps.json
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\bin\Debug\net8.0\AccountManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\bin\Debug\net8.0\AccountManagement.Application.Contracts.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\bin\Debug\net8.0\0_Framework.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.AssemblyInfo.cs
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.sourcelink.json
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.csproj.CopyComplete
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\refint\AccountManagement.Application.Contracts.dll
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\AccountManagement.Application.Contracts.pdb
+D:\Atria\MyPrj\MVC_Final_Project\Code\LampShade\AccountManagement.Application.Contracts\obj\Debug\net8.0\ref\AccountManagement.Application.Contracts.dll
