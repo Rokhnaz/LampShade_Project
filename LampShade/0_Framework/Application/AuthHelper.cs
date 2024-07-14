@@ -48,20 +48,22 @@ namespace _0_Framework.Application
             _contextAccessor.HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
         }
 
-        //public AuthViewModel CurrentAccountInfo()
-        //{
-        //    var result = new AuthViewModel();
-        //    if (!IsAuthenticated())
-        //        return result;
+        public AuthViewModel CurrentAccountInfo()
+        {
+            var result = new AuthViewModel();
+            if (!IsAuthenticated())
+                return result;
 
-        //    var claims = _contextAccessor.HttpContext.User.Claims.ToList();
-        //    result.Id = long.Parse(claims.FirstOrDefault(x => x.Type == "AccountId").Value);
-        //    result.UserName = claims.FirstOrDefault(x => x.Type == "UserName").Value;
-        //    result.RoleId = long.Parse(claims.FirstOrDefault(x => x.Type == ClaimTypes.Role).Value);
-        //    //result.Fullname = claims.FirstOrDefault(x => x.Type == ClaimTypes.Name).Value;
-        //    //result.Role = Roles.GetRoleBy(result.RoleId);
-        //    return result;
-        //}
+            var claims = _contextAccessor.HttpContext.User.Claims.ToList();
+            result.Id = long.Parse(claims.FirstOrDefault(x => x.Type == "AccountId").Value);
+            result.UserName = claims.FirstOrDefault(x => x.Type == "Username").Value;
+            result.RoleId = long.Parse(claims.FirstOrDefault(x => x.Type == ClaimTypes.Role).Value);
+            result.FullName = claims.FirstOrDefault(x => x.Type == ClaimTypes.Name).Value;
+            result.Role = Roles.GetRoleBy(result.RoleId);
+            return result;
+
+
+        }
 
         //public List<int> GetPermissions()
         //{
@@ -96,12 +98,12 @@ namespace _0_Framework.Application
 
         public bool IsAuthenticated()
         {
-           // return _contextAccessor.HttpContext.User.Identity.IsAuthenticated;
-            var claims = _contextAccessor.HttpContext.User.Claims.ToList();
+            return _contextAccessor.HttpContext.User.Identity.IsAuthenticated;
+            //var claims = _contextAccessor.HttpContext.User.Claims.ToList();
             //if (claims.Count > 0)
             //    return true;
             //return false;
-            return claims.Count > 0;
+           // return claims.Count > 0;
         }
 
     }

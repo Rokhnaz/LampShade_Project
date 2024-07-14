@@ -26,7 +26,7 @@ namespace AccountManagement.Application
             _authHelper = authHelper;
         }
 
-        public OperationResult Create(CreateAccount command)
+        public OperationResult Register(RegisterAccount command)
         {
             var operation = new OperationResult();
             if (_accountRepository.Exist(x => x.UserName == command.UserName || x.Mobile == command.Mobile))
@@ -115,6 +115,8 @@ namespace AccountManagement.Application
             return operation.Succedded();
 
         }
+
+
     }
 }
 

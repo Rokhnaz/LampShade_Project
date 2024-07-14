@@ -1,4 +1,5 @@
 using _0_Framework.Application;
+using _0_Framework.Infrastructure;
 using AccountManagement.Configuration;
 using DiscountManagement.Configuration;
 using DiscountManagement.Domain.CustomerDiscountAgg;
@@ -28,7 +29,26 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
         o.AccessDeniedPath = new PathString("/AccessDenied");
     });
 
-builder.Services.AddRazorPages();
+builder.Services.AddAuthorization(Options =>
+{
+    Options.AddPolicy("AdminArea", builder => builder.RequireRole(new List<string> { Roles.Administrator, Roles.ContentUploader }));
+    Options.AddPolicy("Shop",builder=>builder.RequireRole(new List<string>{Roles.Administrator }));
+    Options.AddPolicy("Discount",builder=>builder.RequireRole(new List<string>{Roles.Administrator}));
+    Options.AddPolicy("Account",builder=>builder.RequireRole(new List<string> {Roles.Administrator }));
+
+});
+
+
+builder.Services.AddRazorPages()
+    .AddRazorPagesOptions(Options =>
+    {
+        Options.Conventions.AuthorizeAreaFolder("Administration", "/", "AdminArea");
+        Options.Conventions.AuthorizeAreaFolder("Administration", "/Shop", "Shop");
+        Options.Conventions.AuthorizeAreaFolder("Administration", "/Discounts", "Discount");
+        Options.Conventions.AuthorizeAreaFolder("Administration", "/Accounts", "Account");
+
+    });
+
 builder.Services.AddHttpContextAccessor();
 var connectionString = builder.Configuration.GetConnectionString("LampshadeDb");
 ShopManagementBootstrapper.Configure(builder.Services, connectionString);

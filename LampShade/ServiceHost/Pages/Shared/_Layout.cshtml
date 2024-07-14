@@ -117,6 +117,7 @@
                                     <li>
                                         <a href="contact.html">CONTACT</a>
                                     </li>
+
                                     @if (authHelper.IsAuthenticated())
                                     {
                                         <li>
@@ -126,7 +127,7 @@
                                     else
                                     {
                                         <li>
-                                            <a asp-page="/Account">ورود و ثبت نام</a>
+                                            <a asp-page="/Account">ورود / ثبت نام</a>
                                         </li>
                                     }
 
@@ -248,12 +249,25 @@
                                             <div class="single-settings-block">
                                                 <h4 class="title">MY ACCOUNT </h4>
                                                 <ul>
-                                                    <li>
+                                                    @if (authHelper.IsAuthenticated())
+                                                    {
+                                                        <li>
+                                                            <a asp-page="/Account" asp-page-handler="Logout">خروج</a>
+                                                        </li>
+                                                    }
+                                                    else
+                                                    {
+                                                        <li>
+                                                            <a asp-page="/Account">ورود / ثبت نام</a>
+                                                        </li>
+                                                    }
+
+@*                                                     <li>
                                                         <a href="login-register.html">Register</a>
                                                     </li>
                                                     <li>
                                                         <a href="login-register.html">Login</a>
-                                                    </li>
+                                                    </li> *@
                                                 </ul>
                                             </div>
                                             <div class="single-settings-block">
